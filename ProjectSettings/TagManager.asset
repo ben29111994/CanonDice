@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cube
+  - Bullet
+  - Dice
+  - PlusObject
+  - Wall
+  - FX
+  - Rocket
+  - Shield
+  - Pixel
+  - StackTrigger
+  - WaveTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Cube
+  - P0_Yellow
+  - P1_Blue
+  - P2_Red
+  - P3_Green
+  - Plane
+  - Dice
+  - Outline
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
